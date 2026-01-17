@@ -4,7 +4,7 @@ from telegram import Update
 from telegram.ext import Application, MessageHandler, filters, CommandHandler, ConversationHandler, CallbackContext
 
 # Set your bot token
-TELEGRAM_BOT_TOKEN = "8061973116:AAEugstumhfIEo2qkL59Ro2qeQiM0JWk0BA"
+TELEGRAM_BOT_TOKEN = " "
 
 # Directories
 UPLOAD_FOLDER = "uploads"
